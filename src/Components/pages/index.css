@@ -1,0 +1,44 @@
+.try{
+    width: 60%;
+    height: 470px;
+    margin: 0 20% ;
+}
+.vidboarder{
+    
+    margin: 2% 0;
+   
+}
+.effect{
+    overflow-y: auto;
+max-height: 500px;
+    margin: 2% 1%;
+    padding: 0 10%;
+    background-color:rgb(252, 252, 252);
+}
+.effect h1{
+text-align: center;
+
+}
+.card{
+    width: 30%;
+    margin-left: 2.5%;
+}
+
+img{
+    width:100%;
+   
+}
+
+.des p{
+    padding: 0 2%;
+}
+.des button{
+    width: 25%;
+   margin-right: 3%;
+   float: right;
+   border: black 1px solid;
+   background-color: rgba(97, 97, 94, 0.5);
+}
+.title h2{
+    padding: 0 2%;
+}

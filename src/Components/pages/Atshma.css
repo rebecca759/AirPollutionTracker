@@ -1,0 +1,67 @@
+.cardBox{
+    position: relative;
+    padding: 20px;
+    width: 100%;
+    
+}
+
+.cardBox .card{
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+    display: flex;
+    justify-content: justify;
+    cursor: pointer;
+    width: 100%;
+    margin: 5px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 4em;
+    padding: 10px;
+}
+
+.cardBox2{
+    position: relative;
+    padding: 30px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    
+}
+
+.cardBox2 .card{
+    position: relative;
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+    display: flex;
+    justify-content: justify;
+    cursor: pointer;
+    width: 100%;
+    margin: 5px;
+}
+
+
+
+
+.cardName{
+    color: rgb(218, 162, 99);
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 1em;
+}
+
+p ul{
+    padding: 20px;
+}
+
+
+.cardHeader h2{
+    font-weight: 600;
+}
